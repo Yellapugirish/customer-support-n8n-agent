@@ -38,6 +38,9 @@ The agent classifies incoming messages, retrieves policy/FAQ context from **Pine
 
 This pattern follows a modular, agent-based RAG design that’s easy to extend (additional tools, channels, or constraints).
 
+Detailed build notes and the workflow export are available privately for interview or collaboration.
+For a private walkthrough or the exact node configuration/export, contact me.
+
 ---
 
 ## Setup (what you need and why)
@@ -79,15 +82,15 @@ This pattern follows a modular, agent-based RAG design that’s easy to extend (
 ## Repo structure
 
 customer-support-n8n-agent/
-├─ assets/ # screenshots (add yours here)
-│ ├─ workflow.png
-│ ├─ draft_email.png
-│ └─ loader_pipeline.png
+├─ assets/
+│  ├─ workflow.png
+│  ├─ draft_email.png
+│  └─ loader_pipeline.png
 ├─ README.md
-├─ export/ # (optional) n8n-workflow.json for private sharing
-├─ kb/ # (optional) example policy docs (text)
-└─ .gitignore
-
+├─ .gitignore
+├─ LICENSE
+├─ export/                # (optional) n8n-workflow.json for private sharing
+└─ kb/                    # (optional) example policy docs (text)
 
 ---
 
