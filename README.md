@@ -65,7 +65,6 @@ For a private walkthrough or the exact node configuration/export, contact me.
 
 ## Screenshots
 
-> After you upload these files to `/assets`, they’ll render here automatically.
 
 <p align="center">
   <img src="assets/workflow.png" width="820" alt="n8n workflow overview">
@@ -92,7 +91,6 @@ customer-support-n8n-agent/
 ├─ export/                # (optional) n8n-workflow.json for private sharing
 └─ kb/                    # (optional) example policy docs (text)
 
----
 
 ## Notes & troubleshooting
 
