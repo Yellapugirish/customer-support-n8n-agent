@@ -80,6 +80,7 @@ For a private walkthrough or the exact node configuration/export, contact me.
 
 ## Repo structure
 
+```
 customer-support-n8n-agent/
 ├─ assets/
 │  ├─ workflow.png
@@ -88,8 +89,11 @@ customer-support-n8n-agent/
 ├─ README.md
 ├─ .gitignore
 ├─ LICENSE
+├─ .env.example
 ├─ export/                # (optional) n8n-workflow.json for private sharing
 └─ kb/                    # (optional) example policy docs (text)
+```
+
 
 
 ## Notes & troubleshooting
