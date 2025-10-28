@@ -72,9 +72,7 @@ For a private walkthrough or the exact node configuration/export, contact me.
 <p align="center">
   <img src="assets/draft_email.png" width="820" alt="Gmail draft created by the agent">
 </p>
-<p align="center">
-  <img src="assets/loader_pipeline.png" width="820" alt="Vector store loader pipeline">
-</p>
+
 
 ---
 
